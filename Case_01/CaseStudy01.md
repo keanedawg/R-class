@@ -10,10 +10,7 @@ output:
 
 This some code that does stuff. I know that because I copied-and-pasted it, and then it did stuff. Here you go!
 
-```{r myplot, , echo=FALSE}
-Sequence <- seq(from<-1, to<-20)
-plot(Sequence)
-```
+![](CaseStudy01_files/figure-html/myplot, -1.png)<!-- -->
 
 Without looking at the markdown file, I'm going to guess that this is going to create a plot (maybe a scatterplot) of the sequence of numbers from 1 to 20. I will see if I was right......
 
