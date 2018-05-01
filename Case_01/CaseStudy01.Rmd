@@ -6,6 +6,52 @@ output:
       html_document:  
         keep_md: true 
 ---
+# Case Study #1
+
+An exploration of the quality of different visualizations
+
+## Visualization #1:
+
+![Industries with Swing Votes](https://www.washingtonpost.com/resizer/O3h9izhgLpqnRlO-H02jXuWxsSQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5SFFCBUIJAY6VEX5Q3BZ2KQ3DE.png)
+### Purpose
+
+[source](https://www.washingtonpost.com/news/wonk/wp/2018/04/30/these-are-the-industries-trump-should-protect-from-china-if-he-wants-to-win-elections/?utm_term=.4d99ad2fe78b)
+
+This graph comes from a Washington Post article explaining the effects of Trump's Tarriffs on swing voter states.
+
+
+### Pros
+
+First of all, there is a sorted order to all of the industries. The one's with the most presense in swing states are at top and the order descends from there. This makes it very readable.
+Second, I like that they are using the circles to also weigh in the employment count for each industry. I feel that this variable is just as important, if not more important, than the percentage of the industry that is concetrated in each swing state.
+Third of all, I feel as though the descriptions do a good job of explaining but not over-explaining the role of each piece of information in the chart. I felt the descriptions were very useful.
+Finally, I think comparing these percentages to the national average was a useful metric to give an idea of how most industries are represented in swing states.
+
+
+### Cons
+
+The graph only shows about 10 to 15 different industries. Although these are largest concentrated industries in swing states, it's possible that there are lots of other industries that have over 50% or the job conenctration.
+
+## Visualization #2: 
+
+### Purpose
+
+[source](https://www.washingtonpost.com/news/wonk/wp/2018/04/30/these-are-the-industries-trump-should-protect-from-china-if-he-wants-to-win-elections/?utm_term=.4d99ad2fe78b)
+
+This graph comes from the same Washington Post article as the last one. This graph shows the industries that both have the highest amount of job concentration in swing vote states and would be affected by the tariffs.
+
+### Pros
+
+
+
+### Cons
+
+## Visualization #3: 
+
+## Visualization #4: 
+
+## Visualization #5: 
+
 ## Some R code
 
 This some code that does stuff. I know that because I copied-and-pasted it, and then it did stuff. Here you go!
